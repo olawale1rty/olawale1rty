@@ -302,16 +302,16 @@ I particularly enjoy turning complex data into systems that can support **real-w
 
 <div align="center">
 
-<img width="100%" alt="GitHub metrics" src="./github-metrics.svg"/>
+<!-- <img width="100%" alt="GitHub metrics" src="./github-metrics.svg"/>
 
-<br/>
+<br/> -->
 
 <img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=olawale1rty&hide_border=true&theme=tokyonight&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=34D399"/>
 
 <br/>
 
 <img width="49%" alt="Contribution calendar" src="./github-metrics-calendar.svg"/>
-<img width="49%" alt="Achievements" src="./github-metrics-achievements.svg"/>
+<!-- <img width="49%" alt="Achievements" src="./github-metrics-achievements.svg"/> -->
 
 </div>
 
