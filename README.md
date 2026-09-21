@@ -316,7 +316,6 @@ I particularly enjoy turning complex data into systems that can support **real-w
 </div>
 
 </div>
--->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
