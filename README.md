@@ -19,10 +19,20 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://x.com/mustaphamoshoo8">
-    <img src="https://img.shields.io/badge/X-@mustaphamoshoo8-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-@mustaphamoshoo8-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://olawalemustapha.com">
-    <img src="https://img.shields.io/badge/Website-Profile-1DA1F2?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-olawalemustapha.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=olawale1rty&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile views"/>
+  <a href="https://github.com/olawale1rty?tab=followers">
+    <img src="https://img.shields.io/github/followers/olawale1rty?label=Followers&style=for-the-badge&color=0891B2&logo=github&logoColor=white" alt="Followers"/>
+  </a>
+  <a href="https://github.com/olawale1rty?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/olawale1rty?label=Stars&style=for-the-badge&color=059669&logo=github&logoColor=white" alt="Stars"/>
   </a>
 </p>
 
@@ -57,6 +67,17 @@ My work spans:
 - 🚀 Product & Startup Engineering
 
 I particularly enjoy turning complex data into systems that can support **real-world decisions**.
+
+### 🧭 Right Now
+
+<!-- Edit these four lines as things change — they date faster than anything else here. -->
+
+|                     |                                                                    |
+| :------------------ | :----------------------------------------------------------------- |
+| 🔭 **Building**     | Geospatial and climate intelligence systems at **StrikeClimate**   |
+| 🌱 **Learning**     | Advanced remote sensing pipelines and geospatial foundation models |
+| 💬 **Ask me about** | Geospatial AI · Backend architecture · Rust systems · LLMs & RAG   |
+| 🤝 **Open to**      | Collaborations, technical advisory and ambitious product builds    |
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -277,6 +298,28 @@ I particularly enjoy turning complex data into systems that can support **real-w
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="100%" alt="GitHub metrics" src="./github-metrics.svg"/>
+
+<br/>
+
+<img height="165" alt="Contribution streak" src="https://streak-stats.demolab.com?user=olawale1rty&hide_border=true&theme=tokyonight&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=34D399"/>
+
+<br/>
+
+<img width="49%" alt="Contribution calendar" src="./github-metrics-calendar.svg"/>
+<img width="49%" alt="Achievements" src="./github-metrics-achievements.svg"/>
+
+</div>
+
+</div>
+-->
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
 # 🚀 Products, Ventures & Engineering
 
 <table>
@@ -289,6 +332,9 @@ I particularly enjoy turning complex data into systems that can support **real-w
 ![Marketplace](https://img.shields.io/badge/Marketplace-0891B2?style=flat-square) ![Location Tech](https://img.shields.io/badge/Location%20Technology-06B6D4?style=flat-square)
 
 A marketplace concept focused on connecting buyers and vendors across Nigerian markets.
+
+[![Website](https://img.shields.io/badge/Website-locatemeee.store-0891B2?style=flat-square&logo=googlechrome&logoColor=white)](https://locatemeee.store)
+[![GitHub](https://img.shields.io/badge/GitHub-Organisation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Locatemeee-Marketplace)
 
 **Focus**
 
@@ -304,6 +350,9 @@ A marketplace concept focused on connecting buyers and vendors across Nigerian m
 
 Building agricultural and climate intelligence systems using geospatial data, remote sensing and machine learning.
 
+[![Website](https://img.shields.io/badge/Website-strikeclimate.com-059669?style=flat-square&logo=googlechrome&logoColor=white)](https://strikeclimate.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Organisation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/StrikeClimate)
+
 **Products**
 
 `AgScaleSys`
@@ -318,6 +367,9 @@ Building agricultural and climate intelligence systems using geospatial data, re
 ![Software](https://img.shields.io/badge/Software-2563EB?style=flat-square) ![Product Engineering](https://img.shields.io/badge/Product%20Engineering-1E40AF?style=flat-square)
 
 Building practical digital systems for organizations, businesses and communities.
+
+[![Website](https://img.shields.io/badge/Website-attrotech.com.ng-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://attrotech.com.ng)
+[![GitHub](https://img.shields.io/badge/GitHub-Organisation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Attrotech)
 
 **Focus**
 
@@ -337,6 +389,8 @@ Building practical digital systems for organizations, businesses and communities
 
 A technology initiative focused on building, experimenting, learning and creating practical software solutions.
 
+[![Website](https://img.shields.io/badge/Website-olawalemustapha.com-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://olawalemustapha.com)
+
 **Focus**
 
 `Software Engineering` `AI` `Product Building` `Technology`
@@ -351,6 +405,8 @@ A technology initiative focused on building, experimenting, learning and creatin
 
 An AI-powered fitness technology initiative focused on using intelligent systems to create personalised fitness experiences.
 
+[![Website](https://img.shields.io/badge/Website-folamifit.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://folamifit.com)
+
 **Focus**
 
 `Artificial Intelligence` `Machine Learning` `Fitness Technology` `Personalisation`
@@ -364,6 +420,9 @@ An AI-powered fitness technology initiative focused on using intelligent systems
 ![Technology](https://img.shields.io/badge/Technology-059669?style=flat-square) ![Innovation](https://img.shields.io/badge/Innovation-0D9488?style=flat-square) ![Impact](https://img.shields.io/badge/Social%20Impact-047857?style=flat-square)
 
 A technology initiative focused on developing innovative digital solutions to address real-world challenges and create meaningful impact.
+
+[![Website](https://img.shields.io/badge/Website-revivedlifetech.com.ng-059669?style=flat-square&logo=googlechrome&logoColor=white)](https://revivedlifetech.com.ng)
+[![GitHub](https://img.shields.io/badge/GitHub-Organisation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Revived-Life-Tech)
 
 **Focus**
 
@@ -628,12 +687,12 @@ If you're building something ambitious, I'm interested in discussing the enginee
 </a>
 
 <a href="https://x.com/mustaphamoshoo8">
-    <img src="https://img.shields.io/badge/X-@mustaphamoshoo8-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
-  </a>
+<img src="https://img.shields.io/badge/X-@mustaphamoshoo8-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
 
-  <a href="https://olawalemustapha.com">
-    <img src="https://img.shields.io/badge/Website-Profile-1DA1F2?style=for-the-badge&logo=website&logoColor=white" alt="Website"/>
-  </a>
+<a href="https://olawalemustapha.com">
+<img src="https://img.shields.io/badge/Website-olawalemustapha.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
 
 <br/><br/>
 
